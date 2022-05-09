@@ -1,0 +1,72 @@
+PA2
+Velibor
+Marloes
+76 Little Street
+8002338912
+60000.0
+Business
+Inactive
+Nissan
+2013
+Sport
+Certified Pre-owned
+PA2
+Zeus
+Payam
+10 Needmore Street
+8023341623
+100000.0
+Both
+Active
+Lexus
+2019
+Other
+Other
+PA1
+Floro
+Mirinda
+6517 Nearest Street
+8126125423
+80000.0
+Business
+Inactive
+Honda
+2017
+Hatchback
+Used
+PA2
+Roosevelt
+Intan
+1001 Brown Ave
+8126742233
+60000.0
+Both
+Inactive
+Ford
+2018
+Sedan
+Other
+PA1
+Safa
+Javi
+6007 Research Ave
+0453482299
+400000.0
+Personal
+Active
+Ferrari
+2020
+Sport
+New
+PA1
+Bob
+Johnson
+200 Penn Ave.
+3322234534
+90000.0
+Active
+Business
+Honda
+2020
+Sedan
+Other
