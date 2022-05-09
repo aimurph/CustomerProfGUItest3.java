@@ -1,4 +1,4 @@
-# Java-Customer-Intergrated-System-1
+# Java-Customer-Integrated-System-1
 Hello! This code above is a Java project I created for a class, CSE 2012: Software Design, I was in. This project allows for a user of the program to input data
 about someone who is apart of their dealership. It goes and stores this data in a textfile, which can be opened easily again.
 
